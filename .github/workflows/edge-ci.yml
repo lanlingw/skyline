@@ -1,4 +1,4 @@
-name: Edge CI
+name: Edge CI1
 
 on:
   pull_request_target:
